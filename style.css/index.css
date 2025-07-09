@@ -117,3 +117,56 @@ main section{
      padding: 100px 385px;
 
  }
+ /* section-5 */
+ .section5 .section-coming{
+     display: flex;
+     justify-content: space-between;
+    
+ }
+ .section5 .coming-soon{
+     width: 463px;
+     height: 463px;
+     border-radius: 100%;
+     border: 8px solid #FF0000;
+   
+     align-items: center;
+ }
+ .section5 .coming-soon img{
+     width: 364.84px;
+     height:364.84px;
+     margin: 49.08px 49.08px;
+ }
+ .section5 .section-offer{
+     padding-top: 104px;
+ }
+ .section5 .text-offer{
+     padding-top: 112px;
+ }
+ .section5 .section-offer h3{
+     font-size: 24px;
+     font-weight: 400px;
+     color: #FF0000;
+ }
+ .section5 .section-offer h1{
+     color: #070211;
+     font-size: 48px;
+ }
+ .section5 .section-offer p{
+     color: #070211;
+     font-size: 20px;
+ }
+ .section5 .text-offer{
+     margin-top: 50px;
+     margin-left: 118px;
+ }
+ .section5 .text-offer img{
+     margin-top: 43px;
+     width: 140px;
+     height: 140px;
+ }
+ .section5 .text-offer span{
+     font-size: 48px;
+     font-weight: bold;
+     color: #FF0000;
+ }
+ 

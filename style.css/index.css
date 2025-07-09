@@ -13,6 +13,9 @@ main section{
 .text{
      color: #FFFFFF;
 }
+.span-2{
+     color:#FF0000;
+}
 /* section-1 */
 .section-1{
      background-image: url('../images/BannerImage.png');
@@ -79,7 +82,7 @@ main section{
      color: #FFFFFF;
      font-size: 18px;
  }
- .section-3 ,span{
+ .section-3 .span-1{
      font-weight: bold;
      font-size: 20px;
      color: #FFFFFF;
@@ -88,4 +91,29 @@ main section{
      padding-left: 126px;
      padding-top: 126px;
     
+ }
+ /* section4 */
+ .section4{
+     text-align: center;
+ }
+ .section4 .join-now{
+     padding: 16px 32px;
+     background-color: #FF0000;
+     color: #FFFFFF;
+     border: none;
+     border-radius: 8px;
+ }
+ .section4 .para-2{
+     font-size: 32px;
+     font-weight: 600;
+ }
+ .section4{
+     background-color: #e1dae6;
+     width:1320px;
+     height: 483px;
+     border-radius: 16px;
+ }
+ .section4 .section4-para{
+     padding: 100px 385px;
+
  }

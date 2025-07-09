@@ -238,3 +238,17 @@ main section{
      color: #070211;
      
  }
+ /* section8 */
+ .section8{
+     text-align: center;
+     background-color: #fbe9d7;
+     width: 1320px;
+     height: 616px;
+     border-radius: 16px;
+ }
+ .section8 .section-8-img{
+     padding-top: 80px;
+ }
+ .section8 .section8-btn{
+     padding-top: 48px;
+ }

@@ -3,3 +3,50 @@ body{
      padding: 0;
      box-sizing: border-box;
 }
+main section{
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-left: 120px;
+     margin-right: 120px;
+}
+/* common class */
+.text{
+     color: #FFFFFF;
+}
+/* section-1 */
+.section-1{
+     background-image: url('../images/BannerImage.png');
+     width:1320px;
+     height: 600px;
+     background-repeat: no-repeat;
+     
+
+
+}
+.section-1 .text h1{
+     font-size: 72px;
+}
+.section-1 .text h3{
+     font-size: 32px;
+}
+.text{
+     padding: 177px 344px;
+}
+/* section -2 */
+.new-year{
+     padding: 120px 398px;
+}
+.new-year .new-year-text{
+     color: #FF0000;
+     font-weight: bold;
+     font-size: 88px;
+}
+.new-year h4{
+     font-size: 24px;
+     color: #FF0000;
+}
+.new-year h2{
+     color: #070211;
+     font-size: 48px;
+     font-weight: bold;
+}

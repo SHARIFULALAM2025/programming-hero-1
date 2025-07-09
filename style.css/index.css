@@ -50,3 +50,42 @@ main section{
      font-size: 48px;
      font-weight: bold;
 }
+/* section--3 */
+.section-3{
+     background-image: url('../images/vector.png') ;
+     background-repeat: no-repeat;
+     width:1320px;
+     height: 600px;
+    
+     
+
+}
+.section-3 .section-3-img{
+     display: flex;
+     justify-content: space-around;
+}
+.section-3 .birthday-img{
+     padding-top: 68.11px;
+     padding-left: 39px;
+     padding-right: 138px;
+     padding-bottom: 67.23px;
+}
+
+ .section-3 .welcome{
+     font-size: 64px;
+     color: #FFFFFF;
+ }
+ .section-3 .para{
+     color: #FFFFFF;
+     font-size: 18px;
+ }
+ .section-3 ,span{
+     font-weight: bold;
+     font-size: 20px;
+     color: #FFFFFF;
+ }
+ .birthday-text{
+     padding-left: 126px;
+     padding-top: 126px;
+    
+ }

@@ -12,7 +12,7 @@ body{
      box-sizing: border-box;
 }
 main section{
-    margin: 50px auto;
+    margin: 50px 140px;
     padding: 0 5%;
     max-width: 1320px;
 }

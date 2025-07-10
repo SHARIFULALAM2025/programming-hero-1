@@ -16,6 +16,9 @@ main {
    
     max-width: 1320px;
 }
+main section{
+    height: auto;
+}
 /* common class */
 .text{
      color: #FFFFFF;
@@ -326,7 +329,7 @@ main {
      margin-bottom: 30px;
      
 }
-.hor{
+.footer-container .hor{
     width: 1320px;
     padding-left: 140px;
 
